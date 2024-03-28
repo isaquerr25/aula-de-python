@@ -1,0 +1,10 @@
+Crie um código que o usuário tem que digitar no terminal seu CPF
+e com isso validar se o CPF é verdadeiro ou não
+
+se sim informe CPF valido 
+
+se não informe CPF invalido 
+
+dica valide utilizando Regex
+
+Respota pode de copiada da internet se entender pod cima como funciona
